@@ -23,7 +23,6 @@ defmodule TrafficStarsApi.MixProject do
     [
       {:tesla, "~> 1.5"},
       {:jason, ">= 1.0.0"},
-      {:castore, "~> 1.0"},
       {:mint, "~> 1.0"},
       {:mox, "~> 1.0", only: :test}
     ]
